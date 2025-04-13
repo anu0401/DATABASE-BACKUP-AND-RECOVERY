@@ -29,4 +29,4 @@ Throughout the task, we followed best practices such as using secure authenticat
 In conclusion, this task demonstrated a comprehensive approach to safeguarding databases against potential failures. By successfully executing full backups and restores in both MySQL and PostgreSQL, we ensured that essential business data remains protected and can be recovered efficiently. Such practices are fundamental in any organization’s data management strategy, providing peace of mind and continuity in the face of unexpected disruptions.
 
 #OUTPUT 
-
+![Image](https://github.com/user-attachments/assets/2f41f07d-3cb3-46a4-a419-9fc821b82fc4)
